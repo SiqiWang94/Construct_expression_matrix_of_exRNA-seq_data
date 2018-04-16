@@ -1,20 +1,17 @@
 {
-	"References": {
-                "REF_FA": "/Share/home/wangsiqi/projects/00.reference/Genome/human_hg38/GRCh38_p10.fa",
-                "REF_FAI": "/Share/home/wangsiqi/projects/00.reference/Genome/human_hg38/GRCh38_p10.fa.fai",
-                "bowtie2_hg38_rRNA_index_dir": "/Share/home/wangsiqi/projects/00.reference/Genome/human_hg38/bowtie2.index/00.bowtie2_hg38_rRNA.index/rRNA",
-                "bowtie2_hg38_genome_index_dir": "/Share/home/wangsiqi/projects/00.reference/Genome/human_hg38/bowtie2.index/09.bowtie2_hg38_genome.index/GRCh38_p10",
-                "bowtie2_hg38_miRNA_index_dir": "/Share/home/wangsiqi/projects/00.reference/Genome/human_hg38/bowtie2.index/01.bowtie2_hg38_miRNA.index/miRNA",
-                "bowtie2_hg38_piRNA_index_dir": "/Share/home/wangsiqi/projects/00.reference/Genome/human_hg38/bowtie2.index/02.bowtie2_hg38_piRNA.index/piRNA_hsa",
-                "bowtie2_hg38_lncRNA_Gencode27_index_dir": "/Share/home/wangsiqi/projects/00.reference/Genome/human_hg38/bowtie2.index/03.bowtie2_hg38_lncRNA.index/Gencode27_lncRNA_exon",
-                "bowtie2_hg38_lncRNA_All_index_dir": "/Share/home/wangsiqi/projects/00.reference/Genome/human_hg38/bowtie2.index/03.bowtie2_hg38_lncRNA_All.index/annatated_lncRNA.exon",
-                "bowtie2_hg38_mRNA_exon_index_dir": "/Share/home/wangsiqi/projects/00.reference/Genome/human_hg38/bowtie2.index/04.bowtie2_hg38_mRNA_exon.index/mRNA_exon",
-                "bowtie2_hg38_Y_RNA_index_dir": "/Share/home/wangsiqi/projects/00.reference/Genome/human_hg38/bowtie2.index/10.bowtie2_hg38_Y_RNA.index/Y_RNA",
-                "bowtie2_hg38_snRNA_index_dir": "/Share/home/wangsiqi/projects/00.reference/Genome/human_hg38/bowtie2.index/07.bowtie2_hg38_snRNA.index/snRNA_exon",
-                "bowtie2_hg38_srpRNA_index_dir": "/Share/home/wangsiqi/projects/00.reference/Genome/human_hg38/bowtie2.index/11.bowtie2_hg38_srpRNA.index/srpRNA_exon",
-                "bowtie2_hg38_tRNA_index_dir": "/Share/home/wangsiqi/projects/00.reference/Genome/human_hg38/bowtie2.index/06.bowtie2_hg38_tRNA.index/tRNA",
-                "bowtie2_hg38_other_lncRNA_All_index_dir": "/Share/home/wangsiqi/projects/00.reference/Genome/human_hg38/bowtie2.index/03.bowtie2_hg38_other_lncRNA_All.index/other_lncRNA_All.exon"
-	},
+	        "References": {
+                "miRNA_GTF": "/Share/home/wangsiqi/projects/00.reference/Genome/human_hg38/gff_Gencode27/miRNA.gff",
+                "Gencode27_GTF": "/Share/home/wangsiqi/projects/00.reference/Genome/Gencode27/Input/gencode.v27.annotation.exon.gtf",
+                "Y_RNA_GTF": "/Share/home/wangsiqi/projects/00.reference/Genome/human_hg38/gff_Gencode27/Y_RNA.Gencode27.exon.gtf",
+                "piRNA_GTF": "/Share/home/wangsiqi/projects/00.reference/Genome/human_hg38/gff_Gencode27/piR_hg38_exon.gtf",
+                "snRNA_GTF": "/Share/home/wangsiqi/projects/00.reference/Genome/human_hg38/gff_Gencode27/snRNA.gff",
+                "srpRNA_GTF": "/Share/home/wangsiqi/projects/00.reference/Genome/human_hg38/gff_Gencode27/srpRNA_exon.gtf",
+                "tRNA_GTF": "/Share/home/wangsiqi/projects/00.reference/Genome/human_hg38/gff_Gencode27/tRNA.gff",
+                "other_lncRNA_All_GTF": "/Share/home/wangsiqi/projects/00.reference/Genome/human_hg38/gff_Gencode27/other_lncRNA_All.exon.gtf",
+                "other_lncRNA_All_withStrand_GTF": "/Share/home/wangsiqi/projects/00.reference/Genome/human_hg38/gff_Gencode27/other_lncRNA_All.withStrandeIndo.exon.gtf",
+                "other_lncRNA_All_noStrand_GTF": "/Share/home/wangsiqi/projects/00.reference/Genome/human_hg38/gff_Gencode27/other_lncRNA_All.noStrandeIndo.exon.gtf",
+                "mRNA_GTF": "/Share/home/wangsiqi/projects/00.reference/Genome/human_hg38/gff_Gencode27/mRNA_exon.gff",
+        },
         "Samples": {
 		"498187-B": ["498187-B"],
 		"498221-B": ["498221-B"],
