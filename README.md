@@ -1,5 +1,5 @@
-# exRNA-seq.pre-processing.Snakemake
-## Preprocessing and mapping of exRNA-seq data </p>
+# exRNA-seq.construct_expression_matrix.Snakemake
+## Construct expression matrix  of exRNA-seq data </p>
 > Shared by Siqi Wang
 
 > Email: zzuwsq@163.com
