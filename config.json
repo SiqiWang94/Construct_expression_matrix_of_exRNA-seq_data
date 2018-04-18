@@ -10,7 +10,7 @@
                 "other_lncRNA_All_GTF": "/Share/home/wangsiqi/projects/00.reference/Genome/human_hg38/gff_Gencode27/other_lncRNA_All.exon.gtf",
                 "other_lncRNA_All_withStrand_GTF": "/Share/home/wangsiqi/projects/00.reference/Genome/human_hg38/gff_Gencode27/other_lncRNA_All.withStrandeIndo.exon.gtf",
                 "other_lncRNA_All_noStrand_GTF": "/Share/home/wangsiqi/projects/00.reference/Genome/human_hg38/gff_Gencode27/other_lncRNA_All.noStrandeIndo.exon.gtf",
-                "mRNA_GTF": "/Share/home/wangsiqi/projects/00.reference/Genome/human_hg38/gff_Gencode27/mRNA_exon.gff",
+                "mRNA_GTF": "/Share/home/wangsiqi/projects/00.reference/Genome/human_hg38/gff_Gencode27/mRNA_exon.gff"
         },
         "Samples": {
 		"498187-B": ["498187-B"],
